@@ -10,7 +10,7 @@ University of Michigan - Using Python to Access Web Data
 
 To play the games:
 
-1. Open Google Chrome and copy/paste the URL at the top of each file.
+1. Open Google Chrome and copy/paste the URL at the top comments section of each file (if there is no URL, just regularly open the program in python).
 
 2. This will open a webpage called CodeSkulptor. Press the play button in the top left of the screen.
 

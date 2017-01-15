@@ -14,5 +14,5 @@ To play the games:
 
 2. This will open a webpage called CodeSkulptor. Press the play button in the top left of the screen.
 
-3. Controls are very simple. Generally up/down/left/right, w/a/s/d, and spacebard are all you need
+3. Controls are very simple. Generally up/down/left/right, w/a/s/d, and spacebar are all you need
 

@@ -18,7 +18,7 @@ To play the games:
     
     Pong Game - http://www.codeskulptor.org/#user40_AZvhTjsosa_14.py
     
-    Number Puzzle - http://www.codeskulptor.org/#user41_bY4IIG54yf_43.py    
+    Number Puzzle - http://www.codeskulptor.org/#user41_bY4IIG54yf_44.py    
     
 2. This will open a webpage called CodeSkulptor. Press the play button in the top left of the screen.
 
